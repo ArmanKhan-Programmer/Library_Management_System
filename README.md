@@ -35,7 +35,7 @@ Tracks books, members, and issue/return transactions with a fully interactive co
    java Main_Menu
    
 
-##💡 Example Menu Display  
+## 📋 Example Menu Display  
    --- Library Menu ---  
        1. Add Books  
        2. Add Member  
@@ -48,7 +48,7 @@ Tracks books, members, and issue/return transactions with a fully interactive co
    
    Enter Choice: 
 
-## Example flow:
+## 💡Example flow:
 
 - Enter 1: To add a book (e.g., Title: "Java Basics", Author: "Arman Khan").
 - Enter 2: To add a member (e.g., Name: "John Doe").
