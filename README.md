@@ -33,10 +33,9 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 5. Run the program:  
    ```bash
    java Main_Menu
+   
 
-## 📋 Sample Example  
-
-###💡 Example Menu Display  
+##💡 Example Menu Display  
    --- Library Menu ---  
        1. Add Books  
        2. Add Member  
