@@ -22,7 +22,7 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/armankhan-sourcecode/Library_Management_System.git
+   git clone https://github.com/ArmanKhan-Programmer/Library_Management_System.git
 
 2. Open the project in an IDE (like IntelliJ IDEA).
 3. Run the Main.java class.
