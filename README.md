@@ -20,34 +20,34 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 
 ## 🚀 How to Run
 
-1. Make sure Java (JDK 8+) is installed.
-2. Clone the repository:
+1. Make sure Java (JDK 8+) is installed.  
+2. Clone the repository:  
    ```bash
    git clone https://github.com/ArmanKhan-Programmer/Library_Management_System.git
-3. Navigate to src/ folder:
-   bash
+3. Navigate to src/ folder:  
+   ```bash
    cd Library_Management_System/src
 
-4. Compile all .java files:
-   bash
+4. Compile all .java files:    
+   ```bash
    javac *.java
 
-5. Run the program:
-   bash
+5. Run the program:  
+   ```bash
    java Main_Menu
 
-## 📋 Sample Example
+## 📋 Sample Example  
 
-💡 Example Menu Display
-   --- Library Menu ---
-       1. Add Books
-       2. Add Member
-       3. Display Books
-       4. Display Members
-       5. Issue Books
-       6. Display Issued Books
-       7. Return Books
-       0. Exit
+💡 Example Menu Display  
+   --- Library Menu ---  
+       1. Add Books  
+       2. Add Member  
+       3. Display Books  
+       4. Display Members  
+       5. Issue Books  
+       6. Display Issued Books  
+       7. Return Books  
+       0. Exit  
    
    Enter Choice: 
 
@@ -65,7 +65,11 @@ Tracks books, members, and issue/return transactions with a fully interactive co
 ## ⚡ Notes
 
    ✔️ Make sure to enter correct Member ID and ISBN (without extra spaces).  
-   ✔️ This project is built for learning purposes and demonstration of OOP in Java.  
+   ✔️ This project is built for learning purposes and demonstration of OOP in Java. 
+
+## ✅ Author
+
+   Arman Khan
 
 ## 📜 License
 
