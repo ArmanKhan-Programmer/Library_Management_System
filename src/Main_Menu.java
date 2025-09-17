@@ -81,5 +81,7 @@ public class Main_Menu {
             }
 
         }while (choice != 0) ;
+
+        input.close();
     }
 }
